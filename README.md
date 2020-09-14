@@ -2,6 +2,12 @@
 ## Welcome to my Github Profile
  `come, watch and learn`
 
+ ![Linkedin](assets/linkedin.png)
+ ![Facebook](assets/facebook.png)
+ ![Linkedin](assets/instagram.png)
+ ![Linkedin](assets/medium.png)
+ ![Linkedin](assets/linkedin.png)
+
 <!--
 **codeShaurya/codeShaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
