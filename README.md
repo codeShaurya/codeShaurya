@@ -2,10 +2,10 @@
 ## Welcome to my Github Profile
  `come, watch and learn`
 
-<a href="https://www.linkedin.com/in/codeshaurya/"><img src="./assets/linkedin.png" alt="Linkedin" width="50"/></a>
-<a href="https://www.facebook.com/code.shaury"><img src="./assets/facebook.png" alt="FAcebook" width="50"/></a>
-<a href="https://medium.com/@code.shaurya"><img src="./assets/medium.png" alt="Medium" width="50"/></a>
-<a href="https://www.instagram.com/code.shaurya/"><img src="./assets/instagram.png" alt="Instagram" width="50"/></a>
+<a href="https://www.linkedin.com/in/codeshaurya/" style="margin:5px"><img src="https://raw.githubusercontent.com/codeShaurya/codeShaurya/master/assets/linkedin.png" alt="Linkedin" width="30"/></a>
+<a href="https://www.facebook.com/code.shaury" style="margin:5px"><img src="https://raw.githubusercontent.com/codeShaurya/codeShaurya/master/assets/facebook.png" alt="FAcebook" width="30"/></a>
+<a href="https://medium.com/@code.shaurya" style="margin:5px"><img src="https://raw.githubusercontent.com/codeShaurya/codeShaurya/master/assets/medium.png" alt="Medium" width="30"/></a>
+<a href="https://www.instagram.com/code.shaurya/" style="margin:5px"><img src="https://raw.githubusercontent.com/codeShaurya/codeShaurya/master/assets/instagram.png" alt="Instagram" width="30"/></a>
  
 <!--
 **codeShaurya/codeShaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
