@@ -17,6 +17,13 @@
 <a href="https://www.instagram.com/code.shaurya/" style="margin:15px">
  <img src="https://raw.githubusercontent.com/codeShaurya/codeShaurya/master/assets/instagram.png" alt="Instagram" width="30">
 </a>
+
+Here are something about me:
+
+- 🔭 I’m currently working in golang and php
+- 🌱 I’m currently learning to design highly scalable software
+- 🌱 Graduated from IIT Dhanbad in Computer Science & Engineering
+- 📫 How to reach me: code.shaurya@gmail.com
  
 <!--
 **codeShaurya/codeShaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
