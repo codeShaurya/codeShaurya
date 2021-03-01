@@ -21,6 +21,7 @@
 Here are something about me:
 
 - 🔭 I’m currently working in golang and php
+- 👯 works at Droom
 - 🌱 I’m currently learning to design highly scalable software
 - 🌱 Graduated from IIT Dhanbad in Computer Science & Engineering
 - 📫 Reach me out @ shubham.maurya@droom.in
