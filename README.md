@@ -23,7 +23,7 @@ Here are something about me:
 - 🔭 I’m currently working in golang and php
 - 🌱 I’m currently learning to design highly scalable software
 - 🌱 Graduated from IIT Dhanbad in Computer Science & Engineering
-- 📫 How to reach me: code.shaurya@gmail.com
+- 📫 Reach me out @ shubham.maurya@droom.in
  
 <!--
 **codeShaurya/codeShaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
