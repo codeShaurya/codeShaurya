@@ -1,6 +1,4 @@
 ### Hi there 👋
-## Welcome to my Github Profile
- `come, watch and learn`
 
 <a href="https://www.linkedin.com/in/codeshaurya/" style="margin:15px">
  <img src="https://raw.githubusercontent.com/codeShaurya/codeShaurya/master/assets/linkedin.png" alt="Linkedin" width="30">
