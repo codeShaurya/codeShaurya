@@ -21,11 +21,8 @@
 Here are something about me:
 
 - 🔭 I’m currently working in golang and php
-- 👯 works at [Droom](https://droom.in)
 - 🌱 I’m currently learning to design highly scalable software
-- 🌱 Graduated from IIT Dhanbad in Computer Science & Engineering
-- 📫 Reach me out @ shubham.maurya@droom.in
-- 🔒 Password : Bug Bounty 😂
+- 📫 Graduated from IIT Dhanbad in Computer Science & Engineering
  
 <!--
 **codeShaurya/codeShaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
