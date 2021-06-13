@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Shubham is,
+### Shubham Maurya is,
 
 - 🔭 Working in Golang and Php
 - 📫 Graduated from IIT Dhanbad in Computer Science & Engineering
