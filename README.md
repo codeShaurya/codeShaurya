@@ -5,10 +5,9 @@ Shubham is,
 - 🔭 Working in Golang and Php
 - 📫 Graduated from IIT Dhanbad in Computer Science & Engineering
 - 💬 Ask me about: web development, coding and mentorship
-- 📫 How to reach me: social handles
 - 😄 Pronouns: He/Him
 - 🌩️ Fun fact: I'm very much active on Linkedin
-- 🗺️ Connect with me: 
+- 📫 How to reach me: 
 <a href="https://www.facebook.com/code.shaury" target="blank"><img align="center" src="./assets/facebook.png" alt="" height="20" width="20" /></a>&nbsp;
 <a href="https://medium.com/@code.shaurya" target="blank"><img align="center" src="./assets/medium.png" alt="" height="20" width="20" /></a>&nbsp;
 <a href="https://www.instagram.com/code.shaurya/" target="blank"><img align="center" src="./assets/instagram.png" alt="" height="20" width="20" /></a>&nbsp;
