@@ -2,9 +2,11 @@
 
 ### Shubham Maurya is,
 
-- 🔭 Working in Golang and Php
+- 🔭 currenlty working in Flipkart as SDE
+- 🔭 experienced with Java, Javascript, Golang and Php
 - 📫 Graduated from IIT Dhanbad in Computer Science & Engineering
 - 🧘‍♂️ Meditation lover 💚
+- 📖 fond of reading books
 - 💬 Ask me about: web development, coding and mentorship
 - 😄 Pronouns: He/Him
 - 🌩️ Fun fact: I'm very much active on Linkedin
