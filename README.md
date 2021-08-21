@@ -8,7 +8,6 @@
 - 🧘‍♂️ Meditation lover 💚
 - 📖 fond of reading books
 - 💬 Ask me about: web development, coding and mentorship
-- 😄 Pronouns: He/Him
 - 🌩️ Fun fact: I'm very much active on Linkedin
 - 📫 How to reach me: 
 <a href="https://www.facebook.com/code.shaury" target="blank"><img align="center" src="./assets/facebook.png" alt="" height="20" width="20" /></a>&nbsp;
